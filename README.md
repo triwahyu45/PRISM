@@ -10,7 +10,7 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/PRISM` | `.agents/skills/PRISM` |
+| **Antigravity** | Global Antigravity skills dir | `.agents/skills/PRISM` |
 | **Claude Code** | `~/.claude/skills/PRISM` | `.claude/skills/PRISM` |
 | **OpenAI Codex** | `~/.codex/skills/PRISM` | `.agents/skills/PRISM` |
 
