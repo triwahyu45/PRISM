@@ -1,4 +1,4 @@
-# prism — Web Motion, Editorial SVG Diagrams & UI Craft
+# PRISM — Web Motion, Editorial SVG Diagrams & UI Craft
 
 AI Agent Skill for **Antigravity**, **Claude Code**, and **OpenAI Codex**. Complete frontend craft suite: frame-by-frame animation cloning (`reanimate`), 52 self-contained HTML+SVG diagram archetypes, Impeccable UI critique/polish, GSAP 3 + ScrollTrigger, Karpathy surgical coding rules, and live DevTools QA.
 
@@ -10,13 +10,13 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/prism` | `.agents/skills/prism` |
-| **Claude Code** | `~/.claude/skills/prism` | `.claude/skills/prism` |
-| **OpenAI Codex** | `~/.codex/skills/prism` | `.agents/skills/prism` |
+| **Antigravity** | `~/.gemini/config/skills/PRISM` | `.agents/skills/PRISM` |
+| **Claude Code** | `~/.claude/skills/PRISM` | `.claude/skills/PRISM` |
+| **OpenAI Codex** | `~/.codex/skills/PRISM` | `.agents/skills/PRISM` |
 
 ```bash
 # Example (Antigravity / Claude Code / Codex — pick your path):
-git clone https://github.com/triwahyu45/prism.git ~/.claude/skills/prism
+git clone https://github.com/triwahyu45/PRISM.git ~/.claude/skills/PRISM
 ```
 
 ---

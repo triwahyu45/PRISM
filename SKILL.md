@@ -1,5 +1,5 @@
 ---
-name: prism
+name: PRISM
 description: End-to-end Web Motion & UI Craft suite combining frame-by-frame animation cloning (reanimate), self-contained HTML+SVG editorial diagrams (52 archetypes), Impeccable UI critique/polish verbs, GSAP 3 + ScrollTrigger motion, Karpathy surgical coding discipline, and Chrome DevTools visual/LCP QA.
 ---
 
