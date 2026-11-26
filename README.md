@@ -48,6 +48,7 @@ git clone https://github.com/triwahyu45/PRISM.git ~/.claude/skills/PRISM
 - `references/gsap-motion-design.md` — GSAP 3, ScrollTrigger, & `@gsap/react` patterns
 - `references/reanimate-and-devtools-qa.md` — Frame-by-frame motion cloning & LCP/CLS QA
 - `references/karpathy-coding-rules.md` — Surgical diff & anti-over-engineering rules
+- `references/taste-and-web-guidelines.md` — Taste 9 rules, Image-to-Code tokens, & Web Interface accessibility checks
 
 ## When to Trigger / Search Keywords
 

@@ -15,6 +15,7 @@ Complete frontend craft loop: **Clone reference motion (`reanimate`) → Design 
 - **GSAP 3 & ScrollTrigger Motion**: [`references/gsap-motion-design.md`](references/gsap-motion-design.md)
 - **Reanimate Motion Cloning & DevTools QA**: [`references/reanimate-and-devtools-qa.md`](references/reanimate-and-devtools-qa.md)
 - **Karpathy Surgical Coding Rules**: [`references/karpathy-coding-rules.md`](references/karpathy-coding-rules.md)
+- **Anti-Slop Taste, Image-to-Code & Web Guidelines**: [`references/taste-and-web-guidelines.md`](references/taste-and-web-guidelines.md)
 ---
 
 ## Mandatory Self-Audit & Revise-Before-Delivery Gate
