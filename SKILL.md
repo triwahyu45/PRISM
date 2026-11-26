@@ -15,3 +15,10 @@ Complete frontend craft loop: **Clone reference motion (`reanimate`) → Design 
 - **GSAP 3 & ScrollTrigger Motion**: [`references/gsap-motion-design.md`](references/gsap-motion-design.md)
 - **Reanimate Motion Cloning & DevTools QA**: [`references/reanimate-and-devtools-qa.md`](references/reanimate-and-devtools-qa.md)
 - **Karpathy Surgical Coding Rules**: [`references/karpathy-coding-rules.md`](references/karpathy-coding-rules.md)
+---
+
+## Mandatory Self-Audit & Revise-Before-Delivery Gate
+
+Before delivering any UI, animation, or diagram:
+1. Capture live rendered screenshots at desktop and mobile (`375x812`) via Chrome DevTools or Playwright, and inspect them visually.
+2. Confirm zero console/network errors, zero layout shift (CLS), and clean SVG/typography alignment; fix and re-check before reporting done.
